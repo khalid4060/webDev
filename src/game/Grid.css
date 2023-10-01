@@ -1,0 +1,19 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.GridContainer {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    border: 1px solid black;
+}
+
+.colum {
+    border: 1px solid black;
+}
+
+.Green {
+    background-color: green;
+    border: 1px solid black;
+}
